@@ -3,8 +3,8 @@ As part of your application for our training program, you worked on a project th
 
 
 
-It sounds like you've accomplished quite a bit with your project! Training a dataset with over 3000 images of various 
-situation is a significant undertaking, and achieving excellent accuracy in detection after 50 epochs is impressive.
+It sounds like you've accomplished quite a bit with your project! Training a dataset with over 1500 images of various 
+situation is a significant undertaking, and achieving excellent accuracy in detection after 75 epochs is impressive.
 
 Using the YOLOv8n model was a wise choice, considering its speed, accuracy, and suitability for detection tasks. 
 YOLO (You Only Look Once) models are known for their ability to efficiently detect objects in images by dividing 
